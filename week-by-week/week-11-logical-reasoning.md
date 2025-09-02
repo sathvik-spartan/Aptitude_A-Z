@@ -6,7 +6,7 @@
 - Puzzles (Seating, Box, Age)
 - Coding-Decoding
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
