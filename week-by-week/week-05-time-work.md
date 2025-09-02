@@ -5,7 +5,7 @@
 - Efficiency
 - Pipes and Cisterns
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
