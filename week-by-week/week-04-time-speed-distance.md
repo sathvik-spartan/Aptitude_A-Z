@@ -6,7 +6,7 @@
 - Boats and Streams
 - Circular Motion
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
