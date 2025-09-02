@@ -5,7 +5,7 @@
 - Averages
 - Mixtures and Alligation
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
