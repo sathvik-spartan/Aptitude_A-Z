@@ -5,7 +5,7 @@
 - Pie Charts
 - Tables & Mixed DI
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
