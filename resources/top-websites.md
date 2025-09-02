@@ -15,5 +15,6 @@ Explore these platforms for free aptitude learning, practice questions, and mock
 - [Hitbullseye](https://www.hitbullseye.com/)
 - [Meritnation](https://www.meritnation.com/)
 
-*Feel free to PR and add more resources!*
+*Please Feel free to PR and add more resources! | Your contributions are most valued*
+
 
