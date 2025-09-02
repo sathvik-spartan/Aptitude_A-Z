@@ -1,11 +1,11 @@
-# 🎯 Aptitude Mastery Plan – 12 Week Tracker
+# Aptitude Mastery Plan – 12 Week Tracker
 
 Welcome to the **Ultimate Aptitude Mastery Plan**!  
 This 12-week structured tracker is designed to help you (and fellow learners) build a strong foundation in **Quantitative Aptitude**, **Logical Reasoning**, and **Verbal Ability** – perfect for placements, competitive exams, and interviews.
 
 ---
 
-## 📅 Weekly Breakdown
+## Weekly Breakdown
 
 | Week | Focus Area |
 |------|------------|
@@ -24,7 +24,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 
 ---
 
-## ✅ Daily Tracker
+## Daily Tracker
 
 ### Week 1: Number Systems & Divisibility
 | Day | Task | Problem Set |
@@ -160,7 +160,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 
 ---
 
-## 📘 Recommended Resources
+## Recommended Resources (RS Aggarwal Books are in the "resources" folder).
 
 - **Books**
   - RS Aggarwal – Quantitative Aptitude
@@ -175,15 +175,16 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 
 ---
 
-## 💪 Tips
+## Tips and 
 - Practice regularly and avoid burnout.
-- Maintain an **error log** for tricky questions.
+- Maintain an **error log** for tricky questions. (Very Important)
 - Time yourself to build speed and accuracy.
 - Revise every Sunday for long-term retention.
+- Be disciplined in your learning journey.
 
 ---
 
-### ⭐ Star this repo if you found it helpful!  
-Contributions, doubts, and improvements welcome!
+### Make sure to Star this repo if you found it helpful!  
+Contributions, doubts (Gmail : sathvikspartan@gmail.com) , and improvements are always welcome!
 
 ---
