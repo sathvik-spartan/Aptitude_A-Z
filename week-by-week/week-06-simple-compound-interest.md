@@ -5,7 +5,7 @@
 - Compound Interest
 - CI vs SI
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
