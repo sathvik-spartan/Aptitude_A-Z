@@ -6,7 +6,7 @@
 - Para Jumbles, Cloze Tests
 - Final Aptitude Review
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
