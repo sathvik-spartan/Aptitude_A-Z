@@ -5,7 +5,7 @@
 - Circles & Polygons
 - Area & Volume formulas
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
