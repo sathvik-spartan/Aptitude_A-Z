@@ -5,7 +5,7 @@
 - Combinations
 - Basic Probability
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
