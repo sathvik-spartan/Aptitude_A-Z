@@ -6,7 +6,7 @@
 - Discounts
 - Successive Percentage
 
-## 📅 Daily Plan
+## Daily Plan
 
 | Day | Topic | Problem Set |
 |-----|-------|-------------|
