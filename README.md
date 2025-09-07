@@ -28,7 +28,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 
 - **Books**
   - RS Aggarwal – Quantitative Aptitude
-  - Arun Sharma – QA for CAT
+  - Arun Sharma – QA for CAT (Only if you are seriously preparing for CAT, this would be an additional benefit).
   - RS Aggarwal – Logical Reasoning
 
 - **Websites**
