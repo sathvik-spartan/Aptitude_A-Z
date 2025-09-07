@@ -34,7 +34,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 - **Websites**
   - [IndiaBix](https://www.indiabix.com)
   - [PrepInsta](https://prepinsta.com)
-  - [Lofoya](https://lofoya.com)
+  - [Unstop](https://unstop.com/employers/online-assessment-platform/aptitude-test)
   - [Testbook](https://testbook.com)
 
 ---
