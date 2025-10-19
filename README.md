@@ -39,7 +39,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
 
 ---
 
-## Tips and Wisdom
+## Tips !   
 - Practice regularly and avoid burnout.
 - Maintain an **error log** for tricky questions. (Very Important)
 - Time yourself to build speed and accuracy.
