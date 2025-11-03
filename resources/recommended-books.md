@@ -15,9 +15,10 @@ Here’s a curated list of books to help boost your aptitude prep:
 - Previous year placement papers (TCS, Infosys, Accenture, etc.)
 - Bank PO, SSC, CAT sample papers
 
-### Here are the downloadable links to RS Aggarwal Quant and logical reasoning books.
+### Here are the downloadable links to "RS Aggarwal's" Quant and Logical reasoning books.
 
 1. [Quantitative Aptitude.pdf](https://github.com/user-attachments/files/22097751/Quantitative.Aptitude.pdf)     
 2. [Logical Reasoning.pdf](https://github.com/user-attachments/files/22097750/Logical.Reasoning.pdf)
+
 
 
