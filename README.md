@@ -1,6 +1,7 @@
 # Aptitude Mastery Plan – 12 Week Tracker
 
-Welcome to the **Ultimate Aptitude Mastery Plan**!  
+## Welcome to the **Ultimate Aptitude Mastery Plan**!
+
 This 12-week structured tracker is designed to help you (and fellow learners) build a strong foundation in **Quantitative Aptitude**, **Logical Reasoning**, and **Verbal Ability** – perfect for placements, competitive exams, and interviews.
 
 ---
