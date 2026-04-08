@@ -31,6 +31,7 @@ This 12-week structured tracker is designed to help you (and fellow learners) bu
   - RS Aggarwal – Quantitative Aptitude
   - Arun Sharma – QA for CAT (Only if you are seriously preparing for CAT, this would be an additional benefit).
   - RS Aggarwal – Logical Reasoning
+  - I've also uploaded another Aptitude Workbook in the repo -> [PW Aptitude Workbook](https://github.com/sathvik-spartan/Aptitude_A-Z/blob/main/PW%20Aptitude%20Workbook.pdf)
 
 - **Websites**
   - [IndiaBix](https://www.indiabix.com)
