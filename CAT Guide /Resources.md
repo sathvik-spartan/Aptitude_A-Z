@@ -164,4 +164,4 @@ This is sufficient for top-tier preparation.
 
 ## 10. Important Note
 
-Free resources like Rodha already provide structured playlists, mocks, and materials in one place, making self-study viable if used consistently -> [Rodha](https://www.rodha.co.in/blog/free-cat-2026-preparation-study-material)
+Free resources like Rodha provide structured playlists, mocks, and materials in one place, making self-study viable -> [Rodha](https://www.rodha.co.in/blog/free-cat-2026-preparation-study-material)
