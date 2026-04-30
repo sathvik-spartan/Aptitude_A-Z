@@ -1,14 +1,22 @@
+# About CAT
+
+* **Exam**: Common Admission Test
+* Conducted by: Indian Institutes of Management
+* Purpose: Admission into MBA/PGDM programs in top business schools
+
+---
+
 # CAT Preparation Strategy 
 
 ## 1. Core Strategy
 
-You do not need multiple resources per topic. Stick to:
+One doesn't need multiple resources per topic. It's advisable to follow:
 
 * 1 Concept Source
 * 1 Practice Source
 * 1 Mock Source
 
-Repeat consistently (Always remember consistency is the key).
+Repeat these consistently (Remember, consistency is the key).
 
 ---
 
