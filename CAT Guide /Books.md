@@ -21,10 +21,6 @@
   * Covers fundamentals to advanced topics
   * Large number of practice questions
 
-**Purchase Links:** (Regularly Updated for broken links)
-
-* Amazon India *: [https://www.amazon.in/dp/9353160880](https://www.amazon.in/dp/9353160880)
-
 ---
 
 ## Verbal Ability & Reading Comprehension (VARC)
@@ -37,10 +33,6 @@
   * Strong vocabulary building
   * Improves reading comprehension
 
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/dp/8183071007](https://www.amazon.in/dp/8183071007)
-
 ---
 
 ### How to Prepare for VARC for CAT
@@ -49,10 +41,6 @@
 
   * Reading comprehension strategies
   * Verbal reasoning practice
-
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/dp/9353160902](https://www.amazon.in/dp/9353160902)
 
 ---
 
@@ -66,10 +54,6 @@
   * High-quality CAT-level practice sets
   * Strengthens logical reasoning skills
 
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/dp/9339220616](https://www.amazon.in/dp/9339220616)
-
 ---
 
 ### Data Interpretation for CAT
@@ -78,10 +62,6 @@
 
   * Extensive practice questions
   * Sectional tests
-
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/dp/9353160910](https://www.amazon.in/dp/9353160910)
 
 ---
 
@@ -96,10 +76,6 @@
 
   * Comprehensive self-study
 
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/dp/B0FG7M22PJ](https://www.amazon.in/dp/B0FG7M22PJ)
-
 ---
 
 ## Previous Year Question Papers
@@ -112,10 +88,6 @@
 * Importance:
 
   * Helps understand actual exam pattern
-
-**Purchase Links:**
-
-* Amazon: [https://www.amazon.in/s?k=CAT+previous+year+papers](https://www.amazon.in/s?k=CAT+previous+year+papers)
 
 ---
 
